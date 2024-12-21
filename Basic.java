@@ -12,7 +12,7 @@ public class Basic {
 		System.out.println('A');
 		System.out.println(+'A');
 		System.out.println(+'a');
-		System.out.println(+'a');
+		
 	}
 
 }
